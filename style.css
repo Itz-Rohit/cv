@@ -1,0 +1,52 @@
+.container{
+    width: 50%; 
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 50px;
+    overflow: hidden;
+    padding: 10px; 
+}
+.center{
+    margin-left: 45%;
+}
+.btn{
+    background-color: rgb(14, 226, 14);
+    color: rgb(204, 204, 7);
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+.btn > a{
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.btn:hover{
+    background-color:rgb(243, 243, 13);
+    color:  rgb(0, 1, 1);
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+.stn{
+    background-color: rgb(179, 221, 12);
+    color: rgb(204, 204, 7);
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+.stn >a{
+    text-decoration: none;
+    font-weight: 600;
+}
+.stn:hover{
+    background-color:rgb(221, 182, 215);
+    color:  rgb(0, 1, 1);
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
